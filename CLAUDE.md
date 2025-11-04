@@ -94,3 +94,8 @@ When adding to `knowledge/`:
 - Tag with methodology, domain, or pattern type
 - Include success/failure metrics when available
 - Update related design-kit components when patterns emerge
+
+### Writing style
+- Use British spelling throughout (behaviour, organisation, colour, etc.)
+- **Always use sentence case for headings and titles**
+- **Prioritize conciseness** - Each sentence should add new information. Remove elaborative phrases that restate rather than extend. Trust reader comprehension—avoid over-explaining implications. Edit ruthlessly to remove redundancy.

@@ -1,38 +1,38 @@
 # Information
 
-_Organized, tagged, and contextualized research data_
+_Organised, tagged, and contextualised research data_
 
-This directory transforms raw data into meaningful, structured information through analysis and organization. It's where you make sense of what you collected.
+Transforms raw data into meaningful, structured information through analysis and organisation.
 
-## What Goes Here
+## What goes here
 
-### Interview Analysis
-- **Tagged excerpts** - Key quotes and observations organized by theme/tag
-- **Question-answer mappings** - Responses organized by research question
-- **Tag taxonomy** - Categorization scheme for coding responses
+### Interview analysis
+- **Tagged excerpts** - Key quotes and observations organised by theme/tag
+- **Question-answer mappings** - Responses organised by research question
+- **Tag taxonomy** - Categorisation scheme for coding responses
 - **Pattern documentation** - Recurring themes identified across sessions
 
-### User Needs
+### User needs
 - **Original user needs** - Needs as expressed by participants
-- **Refined user needs** - Standardized format: "As a [who] [context], I need [need] so that [outcome]"
-- **Need categorization** - Organized by theme, journey stage, priority
+- **Refined user needs** - Standardised format: "As a [who] [context], I need [need] so that [outcome]"
+- **Need categorisation** - Organised by theme, journey stage, priority
 - **Traceability matrix** - Links needs back to source interviews
 
-### Research Findings
+### Research findings
 - **Evidence-based findings** - Specific discoveries with supporting data
 - **Hypothesis validation** - Research questions answered with evidence
 - **Journey stage mapping** - Where findings apply in user journey
 - **Segmentation analysis** - How findings differ across user types
 
-### Synthesis Documents
+### Synthesis documents
 - **Affinity maps** - Thematic grouping of observations
 - **Mental models** - How users think about the domain
-- **Pain points catalog** - Documented frustrations with evidence
+- **Pain points catalogue** - Documented frustrations with evidence
 - **Opportunity areas** - Gaps and potential improvements identified
 
 ## Structure
 
-Organize by research phase or theme:
+Organise by research phase or theme:
 
 ```
 information/
@@ -53,16 +53,16 @@ information/
 │       └── pain-points.md
 ```
 
-## From Data to Information
+## From data to information
 
-This is where you add context and meaning:
+Add context and meaning:
 - **Tag and code** raw interview data
-- **Categorize and group** related observations
-- **Refine and standardize** user needs
+- **Categorise and group** related observations
+- **Refine and standardise** user needs
 - **Link evidence** to findings
 - **Map relationships** between different research elements
 
-## Cross-Referencing
+## Cross-referencing
 
 Use unique IDs to maintain traceability:
 - Link findings to source data: `[USR001]`, `[Interview 2024-01-15]`
@@ -74,11 +74,11 @@ Use unique IDs to maintain traceability:
 - Consistent tagging across documents
 - Explicit links between related concepts
 - Metadata-rich frontmatter
-- Standardized user story format
+- Standardised user story format
 
-## Moving Up the Hierarchy
+## Moving up the hierarchy
 
-Information in this folder becomes the input for:
-- **Knowledge** (synthesized insights, patterns, principles)
+Input for:
+- **Knowledge** (synthesised insights, patterns, principles)
 
-Think: _"What does it mean?"_ → Information answers this question.
+_"What does it mean?"_ → Information answers this question.
