@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+
+# Editor directories and files
+.vscode/*
+!.vscode/settings.json.example
+.idea
+*.swp
+*.swo
+*~
+
+# Personal research data (uncommit if this is a private repo)
+# research-projects/
+# participants/
+
+# Sensitive data - NEVER commit these
+**/consent-forms-filled/
+**/participant-data/
+**/recordings/
+**/transcripts-unredacted/
+**/*-sensitive.*
+**/*-personal.*
+
+# Temporary files
+*.tmp
+.cache/
+temp/
+
+# Node modules (if using JS tools)
+node_modules/
+package-lock.json
+
+# Python (if using Python tools)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# Logs
+*.log
+logs/
