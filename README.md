@@ -11,6 +11,7 @@ This boilerplate attempts a **markdown-first approach** to research documentatio
 - _Knowledge compounding_ - Build a repository that grows in value over time, feeding insights back into your broader design practice
 
 ## Structure
+This is tentative—I’ll make it up as I go along.
 
 ### Templates
 Ready-to-use research document templates organized by workflow phase:

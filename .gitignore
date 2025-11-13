@@ -4,6 +4,7 @@
 .LSOverride
 
 # Obsidian
+.obsidian/
 .obsidian/workspace*
 .obsidian/cache
 
