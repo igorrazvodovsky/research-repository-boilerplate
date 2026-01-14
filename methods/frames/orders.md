@@ -1,0 +1,1 @@
+TODO: actions have consequences. Obviously. What about the consequences of those consequences? And their consequences? This frame is about orders of effects.

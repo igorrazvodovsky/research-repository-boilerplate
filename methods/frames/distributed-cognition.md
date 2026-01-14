@@ -1,0 +1,1 @@
+TODO: cognition as distributed across people, artifacts, time, and environment

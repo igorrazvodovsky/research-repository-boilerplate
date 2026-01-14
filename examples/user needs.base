@@ -25,10 +25,10 @@ views:
       - acceptance criteria
       - file.name
     sort:
+      - property: ID
+        direction: ASC
       - property: user journey stage
         direction: ASC
-      - property: ID
-        direction: DESC
       - property: so that
         direction: DESC
     columnSize:
