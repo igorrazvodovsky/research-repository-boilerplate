@@ -40,6 +40,10 @@ What decision(s) this assumption map should inform and by when.
 ## Definitions (shared language)
 
 - **Assumption**: A belief that must be true for a plan/idea to work.
+- **Type**: What kind of risk it is:
+  - **Desirability**: Do people want it / will they use it?
+  - **Feasibility**: Can we build/operate it with our constraints?
+  - **Viability**: Does it work for the business/strategy (costs, ROI, governance)?
 - **Impact**: If false, how much it damages outcomes (Low/Medium/High).
 - **Uncertainty**: How confident we are it’s true today (Low/Medium/High).
 
@@ -61,10 +65,10 @@ Assumptions table:
 - Prefer Markdown links for readability in tables.
 - Avoid `[[wikilinks|with aliases]]` inside tables: the `|` breaks Markdown table columns.
 
-| Assumption | Impact | Uncertainty | Notes |
-|---|---|---|---|
-| [Short readable title](projects/<Project>/assumptions/<short-slug>.md) | High | High | Why it’s risky / what could fail |
-| [Another assumption](projects/<Project>/assumptions/<short-slug>.md) | Medium | High |  |
+| Assumption | Type | Impact | Uncertainty | Notes |
+|---|---|---|---|---|
+| [Short readable title](projects/<Project>/assumptions/<short-slug>.md) | Desirability/Feasibility/Viability | High | High | Why it’s risky / what could fail |
+| [Another assumption](projects/<Project>/assumptions/<short-slug>.md) |  | Medium | High |  |
 
 ## Map (Impact × Uncertainty)
 
@@ -140,6 +144,7 @@ status:
   - draft
 project: Project / study name
 date: YYYY-MM-DD
+assumption-type: Desirability/Feasibility/Viability
 impact: High/Medium/Low
 uncertainty: High/Medium/Low
 tags:
