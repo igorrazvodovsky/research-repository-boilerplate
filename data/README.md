@@ -61,10 +61,3 @@ Structure for both human reading and AI processing:
 - Link to related research questions and hypotheses
 - Use markdown tables for structured data
 
-## Moving up the hierarchy
-
-Foundation for:
-- **Information** (organised, tagged, contextualised data)
-- **Knowledge** (synthesised insights and patterns)
-
-_"What happened?"_ → Data answers this question.

@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: User A
+    filters:
+      and:
+        - file.inFolder("user-journey/steps")
+    order:
+      - file.name
+      - phase
+      - user type
+    sort: []

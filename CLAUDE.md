@@ -23,12 +23,10 @@ The repository is organized to balance human navigation (via Obsidian) with AI c
   - `interviews/` - Discussion guides, question templates, consent forms
   - `analysis/` - Synthesis frameworks, tag taxonomies, insight extraction
   - `outputs/` - User needs, personas, journey maps, final reports
-- `examples/` - Real-world examples demonstrating template usage
 - `tools/` - AI-powered utilities for research tasks
   - Synthesis and pattern detection across interviews
   - User needs extraction and categorization
   - Cross-reference mapping between hypotheses, questions, and findings
-- `data/`, `information/`, `knowledge/` - placeholders
 
 ### Data Model
 

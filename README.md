@@ -1,59 +1,46 @@
 # Research Repository Boilerplate
 
-A starter template for UX research repositories that combines human readability with AI workflows. Part of the [design-kit](https://github.com/igorrazvodovsky/design-kit) project.
+A starter template for UX research repositories. Part of the [design-kit](https://github.com/igorrazvodovsky/design-kit).
 
 ## Philosophy
 
 This boilerplate attempts a **markdown-first approach** to research documentation, enabling:
 
-- _Seamless AI collaboration_ - Work with Claude and other AI tools directly on your research artifacts
-- _Human-friendly workflows_ - Use Obsidian for natural navigation and note-taking
-- _Knowledge compounding_ - Build a repository that grows in value over time, feeding insights back into your broader design practice
+- Customisation - Each researcher, team, project can adjust the structure to their needs
+- Flexibility - There are templates & defaults but everything is text file and can be easily changed, extended or ignored.
+- Human-AI collaboration - Work with AI tools directly on your research artifacts
+- Knowledge compounding - Build a repository that grows in value over time, feeding insights back into your broader design practice
 
 ## Structure
+
 This is tentative—I’ll make it up as I go along.
 
-### Templates
-Ready-to-use research document templates organized by workflow phase:
-- _Research Planning_ - Project checklists, sprint plans, hypothesis frameworks
-- _Interviews_ - Discussion guides, consent forms, participant tracking
-- _Analysis_ - Tag taxonomies, synthesis frameworks, coding templates
-- _Outputs_ - User needs formats, persona templates, journey maps, final reports
+- Templates - Ready-to-use research document templates organized loosely by process order
+- Tools - LLM utilities that automate boring stuff, keep track of things, and suggest next steps
+- Projects - Containers for ongoing work
+- Knowledge base - Accumulated insights and patterns that create compounding value over time
+- Example projects
 
-### Examples
+## (Planned) Features
 
-- TODO: Obsidian-compatibile transcript→highlight→insight flow
-- TODO: Project-agnostic user needs
-- ...
-
-### Tools
-Utilities that enhance human insight:
-- Interview synthesis and pattern detection
-- User needs extraction and categorization
-- Cross-reference mapping (hypotheses → questions → findings)
-- Tag-based analysis across multiple studies
-
-### Knowledge Base
-Accumulated insights and patterns that create compounding value over time
-
-## Key Features
-
-### Markdown-Native
-Everything is markdown, making it:
-- Version-controllable with git
-- Searchable and linkable
-- Compatible with other tools (Obsidian, VS Code, etc.)
-- Perfect for AI processing and augmentation
-
-### Obsidian-Compatible
+### Obsidian-compatible
 Uses conventions that work in Obsidian:
 - `[[Wiki-style]]` links for cross-referencing
 - YAML frontmatter for metadata
 - Tag-based organization
 - Graph view of research relationships
 
-### AI-Powered
-Designed to work seamlessly with AI assistants:
-- Structured formats for easy parsing
-- Built-in prompts and workflows
-- Tools that enhance (not replace) human insight
+### Support for entire work of research & researchOps
+
+- Research project phases: question, approach, execution, analysis, synthesis
+
+### Coupling with design tools
+
+- Crosslinking with design systems
+- Supporting prototyping
+
+### Coupling with development process & cycle
+
+- IN: roadmap, opportunity trees, problem/solution statements → research question & plan
+- OUT: reports & insights → clarity, priorities, recommendations
+- Keeping research limited in scope, helping break activities into sprint/cycle efforts

@@ -3,6 +3,10 @@
 .AppleDouble
 .LSOverride
 
+# Claude
+.claude/plugins/
+.claude/settings.local.json
+
 # Obsidian
 .obsidian/
 .obsidian/workspace*
