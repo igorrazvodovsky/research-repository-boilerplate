@@ -24,6 +24,7 @@ This is tentative—I’ll make it up as I go along.
 ## (Planned) Features
 
 ### Obsidian-compatible
+
 Uses conventions that work in Obsidian:
 - `[[Wiki-style]]` links for cross-referencing
 - YAML frontmatter for metadata
@@ -32,12 +33,14 @@ Uses conventions that work in Obsidian:
 
 ### Support for entire work of research & researchOps
 
-- Research project phases: question, approach, execution, analysis, synthesis
+- Research project phases: question, approach, execution, analysis, synthesis, report
+- Standardising methods and supporting documentation to save time and enable consistent application across teams
+- Democratisation: information on methods and process paired with their customisation enables non-researchers to do research on their own.
 
 ### Coupling with design tools
 
-- Crosslinking with design systems
-- Supporting prototyping
+- Cross-linking with design systems
+- Supporting prototyping. E.g. by including the project as a submodule and providing coding agent with research context.
 
 ### Coupling with development process & cycle
 
